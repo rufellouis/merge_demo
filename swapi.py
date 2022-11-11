@@ -2,7 +2,7 @@
 import requests
 import json
 
-base_url = "https://swapi.dev/api/starships/"
+base_url = "https://newapi//"
 
 character_id = '4'
 url = base_url + character_id
